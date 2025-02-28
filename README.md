@@ -1,4 +1,4 @@
-# Reinforcement Learning with Advanced Exploration Strategies
+# Reinforcement Learning with Advanced Exploration Strategies in Finance
 
 This repository demonstrates various techniques to enhance reinforcement learning performance, especially in environments with sparse rewards.
 
